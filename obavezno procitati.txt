@@ -1,0 +1,12 @@
+Projekat sam radio kao zavrsni rad za drugaricu koja je isla sa mnom
+na IT akademiju.
+
+Od mene je trazila da uradim sto jednostavniji projekat, 
+odnosno projekat koji korisnti sto manje tehologija, jer nije imala  
+vremena da nauci sve. Iz tog razloga nisam koristio javaScript, spring.. 
+Kao sto se i vidi rusio sam i MVC patern, ali sam radio u skladu sa zahtevima.
+
+
+
+
+
